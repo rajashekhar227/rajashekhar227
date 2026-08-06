@@ -107,14 +107,20 @@ Become a Software Development Engineer while building impactful AI applications.
 
 # 🌐 Connect With Me
 
+## 🌐 Connect with Me
+
 <p align="left">
+  <a href="https://github.com/rajashekhar227" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 
-<a href="https://github.com/rajashekhar227">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
+  <a href="https://www.linkedin.com/in/raja-shekhar-reddy-0537642b3/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 
-<!-- Add LinkedIn later -->
-
+  <a href="https://www.kaggle.com/rajashekharreddy227" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+  </a>
 </p>
 
 ---
